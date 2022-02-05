@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics, machine learning and AI.
 - 🌱 I’m currently learning Deep Learning Specialization on Coursera which is offered by DeepLearning.AI
 - 💞️ I’m looking to collaborate on data-driven organization.
-- 📫 How to reach me -> googling my name the you will find what you're looking for.
+- 📫 How to reach me -> My LinkedIn: linkedin.com/in/saharat-ph/
 
 <!---
 rockslpy/rockslpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
