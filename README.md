@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rock. I'm a self-taught data scientist.
+- 👋 Hi, I’m Rock. I'm a data scientist in Thailand.
 - 👀 I’m interested in data analytics, machine learning and AI.
 - 🌱 I’m currently learning Deep Learning Specialization on Coursera which is offered by DeepLearning.AI
 - 💞️ I’m looking to collaborate on data-driven organization.
